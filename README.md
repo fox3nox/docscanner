@@ -11,4 +11,4 @@ Einfaches Web-Tool zum Scannen von Dokument-Fotos: automatische Erkennung, Persp
 ## Nutzung
 - Datei-Button am iPhone öffnet direkt die Kamera (via `capture="environment"`).
 - Mehrere Bilder → mehrseitiges PDF.
-- Keine Daten werden hochgeladen; OpenCV.js und jsPDF kommen via CDN.
+- Keine Daten werden hochgeladen; OpenCV.js und jsPDF kommen via CDN. 
